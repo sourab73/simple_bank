@@ -1,0 +1,35 @@
+body {
+    padding: 100px;
+}
+
+#login-area {
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px gray;
+    padding: 40px;
+}
+
+#trans-area {
+    display: none;
+}
+
+.status {
+    margin: 0 20px;
+    color: azure;
+    border-radius: 10px;
+    font-weight: 700;
+    padding: 20px;
+
+}
+
+.deposite {
+    background-color: slateblue;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+}
+
+.balance {
+    background-color: orange;
+}
